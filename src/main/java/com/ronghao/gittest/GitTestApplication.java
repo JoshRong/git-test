@@ -17,6 +17,7 @@ public class GitTestApplication {
         System.out.println("Hello 哈哈哈哈master");
 
         System.out.println("Push test");
+        System.out.println("Pull test");
     }
 
 }
